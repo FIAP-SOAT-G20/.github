@@ -2,17 +2,25 @@
 
 This organization contains the projects of group 20 carried out during the postgraduate course in Software Architecture (10SOAT) at FIAP.
 
-Stack:
+## Stack
+
 - [go](https://go.dev/)
 - ...
 
-Members:
-- [Alice Tomaz](https://github.com/atomaz)
-- [Filipe Leuch Bonfim](https://github.com/filipe1309)
-- [Hugo Kishi](https://github.com/hugokishi)
-- [Marcos Santos](https://github.com/marcos-nsantos)
-- [Vitor Parras](https://github.com/vitorparras)
 
+### Contributors
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/atomaz"><img src="https://github.com/atomaz.png" width="100px;" alt=""/><br /><sub><b>Alice Tomaz</b></sub></a><br />
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/filipe1309"><img src="https://github.com/filipe1309.png" width="100px;" alt=""/><br /><sub><b>Filipe Leuch Bonfim</b></sub></a><br />
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hugokishi"><img src="https://github.com/hugokishi.png" width="100px;" alt=""/><br /><sub><b>Hugo Kishi</b></sub></a><br />
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/marcos-nsantos"><img src="https://github.com/marcos-nsantos.png" width="100px;" alt=""/><br /><sub><b>Marcos Santos</b></sub></a><br />
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vitorparras"><img src="https://github.com/vitorparras.png" width="100px;" alt=""/><br /><sub><b>Vitor Parras</b></sub></a><br />
+    </tr>
+  </tbody>
+</table>
 
 <!--
 
