@@ -1,14 +1,14 @@
-## Hi there 👋
+## Hi there 👋 - Welcome to 10SOAT - G20 👨‍💻
 
 This organization contains the projects of group 20 carried out during the postgraduate course in Software Architecture (10SOAT) at FIAP.
 
 ## Stack
 
-- [go](https://go.dev/)
+- [Go](https://go.dev/)
 - ...
 
 
-### Contributors
+## Contributors
 
 <table>
   <tbody>
