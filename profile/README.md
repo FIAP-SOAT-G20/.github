@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This organization contains the projects carried out by group 20 of the postgraduate course in Software Architecture at FIAP.
+
 <!--
 
 **Here are some ideas to get you started:**
