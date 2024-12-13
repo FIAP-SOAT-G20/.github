@@ -1,6 +1,18 @@
 ## Hi there 👋
 
-This organization contains the projects carried out by group 20 of the postgraduate course in Software Architecture at FIAP.
+This organization contains the projects of group 20 carried out during the postgraduate course in Software Architecture (10SOAT) at FIAP.
+
+Stack:
+- [go](https://go.dev/)
+- ...
+
+Members:
+- [Alice Tomaz](https://github.com/atomaz)
+- [Filipe Leuch Bonfim](https://github.com/filipe1309)
+- [Hugo Kishi](https://github.com/hugokishi)
+- [Marcos Santos](https://github.com/marcos-nsantos)
+- [Vitor Parras](https://github.com/vitorparras)
+
 
 <!--
 
