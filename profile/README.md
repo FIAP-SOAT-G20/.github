@@ -1,14 +1,25 @@
-## Hi there 👋 - Welcome to 10SOAT - G20 👨‍💻
+## Hi there 👋
 
-This organization contains the projects of group 20 carried out during the postgraduate course in Software Architecture (10SOAT) at FIAP.
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+10SOAT+G18+GH+Org!&center=true&width=360&height=30">
+</p>
 
-## Stack
+This organization contains the projects of group 18 carried out during the postgraduate course in Software Architecture (10SOAT) at FIAP.
 
-- [Go](https://go.dev/)
-- ...
+## 💻 Tech Stack:
+
+![Go](https://img.shields.io/badge/Code-Go-informational?style=for-the-badge&logo=go&color=00ADD8)
+![Gin](https://img.shields.io/badge/Tools-Gin-informational?style=for-the-badge&logo=go&color=00ADD8)
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4169E1)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=326CE5)  
+![Make](https://img.shields.io/badge/Tools-Make-informational?style=for-the-badge&logo=make&color=6D00CC)
+![Actions](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=for-the-badge&logo=githubactions&color=222222)
+![Swagger](https://img.shields.io/badge/Tools-Swagger-informational?style=for-the-badge&logo=swagger&color=85EA2D)
+![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=postman&color=FF6C37)
 
 
-## Contributors
+## 🤝 Contributors
 
 <table>
   <tbody>
