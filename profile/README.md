@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+10SOAT+G18+GH+Org!&center=true&width=360&height=30">
 </p>
 
-This organization contains the projects of group 18 carried out during the postgraduate course in Software Architecture (10SOAT) at FIAP.
+This organization contains the projects of group 22 carried out during the postgraduate course in Software Architecture (10SOAT) at FIAP.
 
 ## 💻 Tech Stack:
 
