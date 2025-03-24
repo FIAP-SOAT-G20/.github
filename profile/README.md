@@ -1,10 +1,13 @@
 ## Hi there 👋
 
-<p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+10SOAT+G22+GH+Org!&center=true&width=360&height=30">
-</p>
+This organization hosts the projects developed during the Software Architecture (10SOAT) postgraduate program at FIAP.
 
-This organization contains the projects of group 22 carried out during the postgraduate course in Software Architecture (10SOAT) at FIAP.
+| Tech Challenge |       Group      | Repositories | Goal |
+| -------------- | ---------------- | ------------ | ---- |
+| 1  | 20  | [API](https://github.com/FIAP-SOAT-G20/FIAP-TechChallenge-Fase1) | API + Docker |
+| 2  | 18  | [API](https://github.com/FIAP-SOAT-G20/FIAP-TechChallenge-Fase2) | API v2 + K8s|
+| 3  | 22  | [API](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-api), [DB](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-db-tf), [K8s](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-k8s-tf), [Lambda](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-lambda-auth-tf) | API v3 + TF + Cloud |
+
 
 ## 💻 Tech Stack:
 
@@ -21,6 +24,8 @@ This organization contains the projects of group 22 carried out during the postg
 
 ## 🤝 Contributors
 
+Here are the amazing contributors behind these projects!
+
 <table>
   <tbody>
     <tr>
@@ -33,13 +38,7 @@ This organization contains the projects of group 22 carried out during the postg
   </tbody>
 </table>
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+🚀 Happy coding!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
