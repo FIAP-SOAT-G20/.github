@@ -7,6 +7,7 @@ This organization hosts the projects developed during the Software Architecture 
 | 1  | 20  | [API](https://github.com/FIAP-SOAT-G20/FIAP-TechChallenge-Fase1) | API + Hex Arch + Docker |
 | 2  | 18  | [API](https://github.com/FIAP-SOAT-G20/FIAP-TechChallenge-Fase2) | API v2 + Clean Arch + K8s|
 | 3  | 22  | [API](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-api), [DB](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-db-tf), [K8s](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-k8s-tf), [Lambda](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-lambda-auth-tf) | API v3 + TF + Cloud |
+| 4  | 19  | [Customer Service](https://github.com/FIAP-SOAT-G20/tc4-customer-service), [Order Service](https://github.com/FIAP-SOAT-G20/tc4-order-service), [Payment Service](https://github.com/FIAP-SOAT-G20/tc4-payment-service), [Kitchen Service](https://github.com/FIAP-SOAT-G20/tc4-kitchen-service), [Infrastructure Deploy](https://github.com/FIAP-SOAT-G20/tc4-infrastructure-deploy), [Infrastructure Terraform](https://github.com/FIAP-SOAT-G20/tc4-infrastructure-tf) | Customer, Order, Payment and Kitchen Service + Deploy + TF |
 
 
 ## 💻 Tech Stack:
