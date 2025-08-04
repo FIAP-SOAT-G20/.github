@@ -5,9 +5,9 @@ This organization hosts the projects developed during the Software Architecture 
 | Tech Challenge |       Group      | Repositories | Goal |
 | -------------- | ---------------- | ------------ | ---- |
 | 1  | 20  | [API](https://github.com/FIAP-SOAT-G20/FIAP-TechChallenge-Fase1) | API Hex Arch + Docker |
-| 2  | 18  | [API](https://github.com/FIAP-SOAT-G20/FIAP-TechChallenge-Fase2) | API Clean Arch + K8s|
-| 3  | 22  | [API](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-api), [DB](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-db-tf), [K8s](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-k8s-tf), [Lambda](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-lambda-auth-tf) | API Clean Arch v2 + TF + Cloud |
-| 4  | 19  | [Customer](https://github.com/FIAP-SOAT-G20/tc4-customer-service), [Order](https://github.com/FIAP-SOAT-G20/tc4-order-service), [Payment](https://github.com/FIAP-SOAT-G20/tc4-payment-service), [Kitchen](https://github.com/FIAP-SOAT-G20/tc4-kitchen-service), [Deploy (k8s)](https://github.com/FIAP-SOAT-G20/tc4-infrastructure-deploy), [Terraform](https://github.com/FIAP-SOAT-G20/tc4-infrastructure-tf) | Split API into Microservices (API Clean Arch) + SQL + NoSQL + Coverage 80% + BDD |
+| 2  | 18  | [API](https://github.com/FIAP-SOAT-G20/FIAP-TechChallenge-Fase2) | Refactor API to Clean Arch + K8s|
+| 3  | 22  | [API](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-api), [DB](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-db-tf), [K8s](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-k8s-tf), [Lambda](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-lambda-auth-tf) | Improve Clean Arch API to "v2" + K8s + TF + AWS Cloud |
+| 4  | 19  | [Customer](https://github.com/FIAP-SOAT-G20/tc4-customer-service), [Order](https://github.com/FIAP-SOAT-G20/tc4-order-service), [Payment](https://github.com/FIAP-SOAT-G20/tc4-payment-service), [Kitchen](https://github.com/FIAP-SOAT-G20/tc4-kitchen-service), [Deploy (k8s)](https://github.com/FIAP-SOAT-G20/tc4-infrastructure-deploy), [Terraform](https://github.com/FIAP-SOAT-G20/tc4-infrastructure-tf) | Split API into Microservices (Clean Arch API's) + SQL + NoSQL + Coverage >= 80% + BDD + K8s + TF + AWS Cloud |
 
 
 ## 💻 Tech Stack:
