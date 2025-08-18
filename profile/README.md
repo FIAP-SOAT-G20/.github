@@ -8,7 +8,13 @@ This organization hosts the projects developed during the Software Architecture 
 | 2  | 18  | [API](https://github.com/FIAP-SOAT-G20/FIAP-TechChallenge-Fase2) | Refactor API to Clean Arch + K8s|
 | 3  | 22  | [API](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-api), [DB](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-db-tf), [K8s](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-k8s-tf), [Lambda](https://github.com/FIAP-SOAT-G20/fiap-tech-challenge-3-lambda-auth-tf) | Improve Clean Arch API to "v2" + K8s + TF + AWS Cloud |
 | 4  | 19  | [Customer](https://github.com/FIAP-SOAT-G20/tc4-customer-service), [Order](https://github.com/FIAP-SOAT-G20/tc4-order-service), [Payment](https://github.com/FIAP-SOAT-G20/tc4-payment-service), [Kitchen](https://github.com/FIAP-SOAT-G20/tc4-kitchen-service), [Deploy (k8s)](https://github.com/FIAP-SOAT-G20/tc4-infrastructure-deploy), [Terraform](https://github.com/FIAP-SOAT-G20/tc4-infrastructure-tf) | Split API into Microservices (Clean Arch API's) + SQL + NoSQL + Coverage >= 80% + BDD + K8s + TF + AWS Cloud |
-
+| HACKATHON  | 21  | [Terraform](https://github.com/FIAP-SOAT-G20/hackaton-infrastructure-tf) | Provision AWS infrastructure with Terraform |
+| HACKATHON  | 21  | [K8s](https://github.com/FIAP-SOAT-G20/hackaton-infrastructure-deploy) | Deploy services on the infrastructure using Kubernetes |
+| HACKATHON  | 21  | [Video Service](https://github.com/FIAP-SOAT-G20/hackathon-video-service) | Manage video uploads and downloads per user. |
+| HACKATHON  | 21  | [Video Processor Job](https://github.com/FIAP-SOAT-G20/hackathon-video-processor-job) | Process videos by extracting images and compressing them into a ZIP file. |
+| HACKATHON  | 21  | [Job Starter](https://github.com/FIAP-SOAT-G20/hackathon-job-starter-lambda) | Trigger new Kubernetes jobs |
+| HACKATHON  | 21  | [Verify Job Status](https://github.com/FIAP-SOAT-G20/hackathon-verify-job-status-lambda) | Monitor video processing jobs and restart them on failure. |
+| HACKATHON  | 21  | [E-mail notifier](https://github.com/FIAP-SOAT-G20/hackathon-notification-lambda) | Notify users via email about video processing status. |
 
 ## 💻 Tech Stack:
 
