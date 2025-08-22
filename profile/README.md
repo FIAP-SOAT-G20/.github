@@ -33,7 +33,7 @@ All repositories represent team-based challenges and a hackathon project, applyi
 | ---------- | ------- |
 | [Video Service](https://github.com/FIAP-SOAT-G20/hackathon-video-service) | Manage video uploads and downloads |
 | [Video Processor Job](https://github.com/FIAP-SOAT-G20/hackathon-video-processor-job) | Extract images from videos and package them into ZIP files |
-| [Process Checker Lambda](https://github.com/FIAP-SOAT-G20/hackathon-verify-job-status-lambda) | Monitor video processing jobs and handle failures |
+| [Video Process Checker Lambda](https://github.com/FIAP-SOAT-G20/hackathon-video-process-checker-lambda) | Monitor video processing jobs and handle failures |
 | [Job Starter Lambda](https://github.com/FIAP-SOAT-G20/hackathon-job-starter-lambda) | Trigger new Kubernetes jobs |
 | [Notification Lambda](https://github.com/FIAP-SOAT-G20/hackathon-notification-lambda) | Notify users about processing results via email |
 | [User Lambda](https://github.com/FIAP-SOAT-G20/hackathon-user-lambda) | Handle authentication and user management |
