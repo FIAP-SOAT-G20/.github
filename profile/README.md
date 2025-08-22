@@ -17,8 +17,8 @@ This organization hosts the projects developed during the Software Architecture 
 | ------------ | ---- |
 | [Video Service](https://github.com/FIAP-SOAT-G20/hackathon-video-service) | Manage video uploads and downloads per user. |
 | [Video Processor Job](https://github.com/FIAP-SOAT-G20/hackathon-video-processor-job) | Process videos by extracting images and compressing them into a ZIP file. |
-| [Job Starter Lambda](https://github.com/FIAP-SOAT-G20/hackathon-job-starter-lambda) | Trigger new Kubernetes jobs |
 | [Video Process Checker Lambda](https://github.com/FIAP-SOAT-G20/hackathon-verify-job-status-lambda) | Monitor video processing jobs and restart them on failure. |
+| [Job Starter Lambda](https://github.com/FIAP-SOAT-G20/hackathon-job-starter-lambda) | Trigger new Kubernetes jobs |
 | [Notification Lambda](https://github.com/FIAP-SOAT-G20/hackathon-notification-lambda) | Notify users via email about video processing status. |
 | [User Lambda](https://github.com/FIAP-SOAT-G20/hackathon-user-lambda) | Authenticate and manage users. |
 | [Infra - Terraform](https://github.com/FIAP-SOAT-G20/hackaton-infrastructure-tf) | Provision AWS infrastructure with Terraform |
