@@ -46,12 +46,13 @@ All repositories represent team-based challenges and a hackathon project, applyi
 
 **Languages & Frameworks**  
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=for-the-badge&logo=go&color=00ADD8)
-![Gin](https://img.shields.io/badge/Framework-Gin-informational?style=for-the-badge&logo=go&color=00ADD8)
+![Gin](https://img.shields.io/badge/Framework-Gin-informational?style=for-the-badge&logo=gin&color=008ECF)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB)
+![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=for-the-badge&logo=flask&color=3BABC3)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4169E1)
-![NoSQL](https://img.shields.io/badge/NoSQL-informational?style=for-the-badge&logo=mongodb&color=47A248)
+![Redis](https://img.shields.io/badge/Database-Redis-informational?style=for-the-badge&logo=redis&color=FF4438)
 
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=for-the-badge&logo=docker&color=2496ED)
@@ -61,10 +62,10 @@ All repositories represent team-based challenges and a hackathon project, applyi
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=aws&color=FF9900)
 
 **Tools & Testing**  
-![Make](https://img.shields.io/badge/Make-informational?style=for-the-badge&logo=make&color=6D00CC)
+![Make](https://img.shields.io/badge/Tools-Make-informational?style=for-the-badge&logo=make&color=6D00CC)
 ![Swagger](https://img.shields.io/badge/Docs-Swagger-informational?style=for-the-badge&logo=swagger&color=85EA2D)
 ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=postman&color=FF6C37)
-![BDD](https://img.shields.io/badge/BDD-informational?style=for-the-badge&logo=cucumber&color=23D96C)
+![Cucumber-BDD](https://img.shields.io/badge/BDD-Cucumber-informational?style=for-the-badge&logo=cucumber&color=23D96C)
 
 ---
 
