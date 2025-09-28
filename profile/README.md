@@ -31,7 +31,8 @@ All repositories represent team-based challenges and a hackathon project, applyi
 
 | Repository | Purpose |
 | ---------- | ------- |
-| [Video Service](https://github.com/FIAP-SOAT-G20/hackathon-video-service) | Manage video uploads and downloads |
+| [Video Manager Front](https://github.com/FIAP-SOAT-G20/hackathon-video-manager) | Manage video uploads and downloads Frontend |
+| [Video Service](https://github.com/FIAP-SOAT-G20/hackathon-video-service) | Manage video uploads and downloads API & Worker |
 | [Video Processor Job](https://github.com/FIAP-SOAT-G20/hackathon-video-processor-job) | Extract images from videos and package them into ZIP files |
 | [Job Starter Lambda](https://github.com/FIAP-SOAT-G20/hackathon-job-starter-lambda) | Trigger new Kubernetes jobs and trigger a monitor video processing jobs and handle failures |
 | [Notification Lambda](https://github.com/FIAP-SOAT-G20/hackathon-notification-lambda) | Notify users about processing results via email |
